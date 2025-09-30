@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @DhamzBonaparte
+- 👋 Hi, I’m Sulav
 - 👀 I have just started learning about software designing
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate with anyone to be honest
+- 🌱 I’m currently learning MERN Stack
 - 😈 Stalk me sulavdhami420@gmail.com
 
 <!---
