@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working on my skills<br>I am currently learning MERN Stack<br>I am looking for help with gaining knowledge in IT industry<br><br>
+Working on my skills<br>MERN Stack Dev<br>Extremely passionate on learning about AI and Machine Learning<br><br>
 
 
 ## 🌐 Socials:
