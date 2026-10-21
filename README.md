@@ -8,11 +8,11 @@ Computer Application student at Tribhuvan University, focused on **Machine Learn
 - 🎯 Looking for: ML / Data Science / AI internship opportunities
 
 ### 📌 Featured Work
-- 🧠 [Multi-Task Face Analysis CNN]([(https://github.com/DhamzBonaparte/Multitask-Face-Analysis-CNN/blob/main/Gender_Classifier_CNN.ipynb)](https://github.com/DhamzBonaparte/Multitask-Face-Analysis-CNN)) — Predicts Age (Regression) and Gender (Classification) using a shared convolutional base (82% accuracy, 9.6 yr MAE)
-- 🚻 [Gender Classifier CNN]([https://github.com/DhamzBonaparte](https://github.com/DhamzBonaparte/Multitask-Face-Analysis-CNN/blob/main/Gender_Classifier_CNN.ipynb)) — From-scratch CNN for binary facial classification (86% accuracy)
-- ⚽ [FPL Top-5 Player Recommender]([https://github.com/DhamzBonaparte/Premier-League-FPL-Suggestion-Model](https://github.com/DhamzBonaparte/Premier-League-FPL-Suggestion-Model)) — XGBoost pipeline + Streamlit app
-- 📧 [Spam Email Classifier]([https://github.com/DhamzBonaparte/Spam-Classifier](https://github.com/DhamzBonaparte/Spam-Classifier)) — 97% accuracy, 100% precision
-- 😴 [Screentime & Sleep Quality Predictor]([https://github.com/DhamzBonaparte/Screentime-Analyzer](https://github.com/DhamzBonaparte/Screentime-Analyzer)) — FastAPI + React deployment
+- 🧠 [Multi-Task Face Analysis CNN]((https://github.com/DhamzBonaparte/Multitask-Face-Analysis-CNN)) — Predicts Age (Regression) and Gender (Classification) using a shared convolutional base (82% accuracy, 9.6 yr MAE)
+- 🚻 [Gender Classifier CNN]((https://github.com/DhamzBonaparte/Multitask-Face-Analysis-CNN/blob/main/Gender_Classifier_CNN.ipynb)) — From-scratch CNN for binary facial classification (86% accuracy)
+- ⚽ [FPL Top-5 Player Recommender]((https://github.com/DhamzBonaparte/Premier-League-FPL-Suggestion-Model)) — XGBoost pipeline + Streamlit app
+- 📧 [Spam Email Classifier]((https://github.com/DhamzBonaparte/Spam-Classifier)) — 97% accuracy, 100% precision
+- 😴 [Screentime & Sleep Quality Predictor]((https://github.com/DhamzBonaparte/Screentime-Analyzer)) — FastAPI + React deployment
 - ⚽ [FutHub](https://futhub.netlify.app/) — Futsal booking and matchmaking site
 - 🎨 [Aakarshan](https://aakarshann.netlify.app/) — Canvas selling store
 
