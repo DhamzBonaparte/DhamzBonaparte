@@ -1,15 +1,15 @@
 # 💫 About Me
 
-Computer Application student at Tribhuvan University, focused on **Machine Learning
-and full-stack development**. I build end-to-end ML pipelines, from raw data
-through feature engineering, model training, and deployment to live web apps.
+Computer Application student at Tribhuvan University, focused on **Machine Learning, Deep Learning, and full-stack development**. I build end-to-end systems, from raw data and feature engineering to training CNNs and deploying live web apps.
 
-- 🔭 Currently: building and deploying ML projects (3 live, more in progress)
-- 🧠 Focus: ML engineering, feature engineering, leakage-free pipelines, model deployment
+- 🔭 Currently: building and deploying ML/DL projects (5 live, more in progress)
+- 🧠 Focus: Deep Learning (CNNs), ML engineering, leakage-free pipelines, model deployment
 - 🛠 Also: MERN stack development, REST APIs, cloud deployment
-- 🎯 Looking for: ML / Data Science internship opportunities
+- 🎯 Looking for: ML / Data Science / AI internship opportunities
 
 ### 📌 Featured Work
+- 🧠 [Multi-Task Face Analysis CNN](https://github.com/DhamzBonaparte) — Predicts Age (Regression) and Gender (Classification) using a shared convolutional base (82% accuracy, 9.6 yr MAE)
+- 🚻 [Gender Classifier CNN](https://github.com/DhamzBonaparte) — From-scratch CNN for binary facial classification (86% accuracy)
 - ⚽ [FPL Top-5 Player Recommender](https://github.com/DhamzBonaparte/Premier-League-FPL-Suggestion-Model) — XGBoost pipeline + Streamlit app
 - 📧 [Spam Email Classifier](https://github.com/DhamzBonaparte/Spam-Classifier) — 97% accuracy, 100% precision
 - 😴 [Screentime & Sleep Quality Predictor](https://github.com/DhamzBonaparte/Screentime-Analyzer) — FastAPI + React deployment
@@ -28,13 +28,15 @@ through feature engineering, model training, and deployment to live web apps.
 
 ## 💻 Tech Stack
 
-**ML & Data**
+**Deep Learning & ML**
 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
 **Languages**
@@ -57,6 +59,7 @@ through feature engineering, model training, and deployment to live web apps.
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
@@ -78,6 +81,7 @@ through feature engineering, model training, and deployment to live web apps.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat-square&logo=sketch&logoColor=black)
+
 ---
 
 ## 📊 Codewars
