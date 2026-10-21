@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Computer Application student at Tribhuvan University, focused on **Machine Learning, Deep Learning, and full-stack development**. I build end-to-end systems, from raw data and feature engineering to training CNNs and deploying live web apps.
+Computer Science student at Tribhuvan University, focused on **Machine Learning, Deep Learning, and full-stack development**. I build end-to-end systems, from raw data and feature engineering to training CNNs and deploying live web apps.
 
 - 🔭 Currently: building and deploying ML/DL projects (5 live, more in progress)
 - 🧠 Focus: Deep Learning (CNNs), ML engineering, leakage-free pipelines, model deployment
