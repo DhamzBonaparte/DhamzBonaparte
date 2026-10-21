@@ -10,7 +10,7 @@ Computer Application student at Tribhuvan University, focused on **Machine Learn
 ### 📌 Featured Work
 - 🧠 [Multi-Task Face Analysis CNN](https://github.com/DhamzBonaparte/Multitask-Face-Analysis-CNN) — Predicts Age (Regression) and Gender (Classification) using a shared convolutional base (82% accuracy, 9.6 yr MAE)
 - 🚻 [Gender Classifier CNN](https://github.com/DhamzBonaparte/Multitask-Face-Analysis-CNN/blob/main/Gender_Classifier_CNN.ipynb) — From-scratch CNN for binary facial classification (86% accuracy)
-- 🐶 [Cats vs Dogs CNN Classifier]([https://github.com/DhamzBonaparte/YOUR-REPO-NAME](https://colab.research.google.com/drive/1YLLqcEtCcir1z1S28PHUsyWG87Sy1OcT)) — From-scratch CNN with data augmentation and LR scheduling achieving 90% validation accuracy
+- 🐶 [Cats vs Dogs CNN Classifier](https://colab.research.google.com/drive/1YLLqcEtCcir1z1S28PHUsyWG87Sy1OcT) — From-scratch CNN with data augmentation and LR scheduling achieving 90% validation accuracy
 - ⚽ [FPL Top-5 Player Recommender](https://github.com/DhamzBonaparte/Premier-League-FPL-Suggestion-Model) — XGBoost pipeline + Streamlit app
 - 📧 [Spam Email Classifier](https://github.com/DhamzBonaparte/Spam-Classifier) — 97% accuracy, 100% precision
 - 😴 [Screentime & Sleep Quality Predictor](https://github.com/DhamzBonaparte/Screentime-Analyzer) — FastAPI + React deployment
