@@ -5,7 +5,7 @@ Computer Science student at Tribhuvan University, focused on **Machine Learning,
 - 🔭 Currently: building and deploying ML/DL projects (5 live, more in progress)
 - 🧠 Focus: Deep Learning (CNNs), ML engineering, leakage-free pipelines, model deployment
 - 🛠 Also: MERN stack development, REST APIs, cloud deployment
-- 🎯 Looking for: ML / Data Science / AI internship opportunities
+- 🎯 Looking for: ML / DL / Data Science / AI internship opportunities
 
 ### 📌 Featured Work
 - 🧠 [Multi-Task Face Analysis CNN](https://github.com/DhamzBonaparte/Multitask-Face-Analysis-CNN) — Predicts Age (Regression) and Gender (Classification) using a shared convolutional base (82% accuracy, 9.6 yr MAE)
